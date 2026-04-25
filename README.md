@@ -1,12 +1,60 @@
-# React + Vite
+# Nike Clone - Modern E-Commerce Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Nike Logo](src/assets/images/header-logo.svg)
 
-Currently, two official plugins are available:
+A high-performance, responsive Nike landing page built with **React 19**, **Vite**, and **Tailwind CSS**. This project showcases modern web development practices, focusing on clean UI/UX, responsive design, and component-based architecture.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- **Responsive Design**: Fully optimized for mobile, tablet, and desktop screens.
+- **Dynamic Hero Section**: Interactive shoe selection with smooth transitions.
+- **Product Showcase**: Beautifully designed sections for popular products and super-quality offerings.
+- **Service Highlights**: Display of core services with clean icons.
+- **Customer Reviews**: Testimonials section to build trust.
+- **Newsletter Subscription**: Integrated call-to-action for user engagement.
+- **Professional Footer**: Organized navigation and social links.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- **Frontend**: React 19
+- **Build Tool**: Vite
+- **Styling**: Tailwind CSS
+- **Icons**: Custom SVG icons
+
+## 📸 Screenshots
+
+### Hero Section
+![Hero Section](public/screenshots/hero.png)
+
+### Popular Products
+![Popular Products](public/screenshots/popular.png)
+
+### Special Offers
+![Special Offers](public/screenshots/special.png)
+
+### Footer
+![Footer](public/screenshots/footer.png)
+
+## ⚙️ Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/nike-clone.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd nike-clone
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+## 🤝 Contact
+
+Hrishikesh Kali - [Your LinkedIn/Email/Portfolio]
+Project Link: [https://github.com/your-username/nike-clone](https://github.com/your-username/nike-clone)
